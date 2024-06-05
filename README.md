@@ -78,9 +78,7 @@
 
 ***
 ### THANKS TO:
-- [***Fortunatus Mokaya***](https://github.com/Fortunatusmokaya) For several Cmds & Ideas.
-- [***Gifted Tech***](https://github.com/mouricedevs) For Genaral Help and Brotherhood. 
-- [***Suhail Ser***](https://github.com/SuhailTechInfo) For Code encryption. 
-- [***Luffy***](https://github.com/Luffy2ndAccount) For Providing a Base of **FLASH-MD**
+- . 
+- [***STATUS KING CHIKU***] For Providing a Base of **MAHIYA-MD**
 - <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
