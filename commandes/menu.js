@@ -31,7 +31,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────✧𝐅𝐄𝐄𝐍𝐈𝐗-𝐌𝐃✧────◆
+╭────✧*MAHIYA-MD*✧────◆
 │🍀 *Préfix* : ${s.PREFIXE}
 │🍁 *User* : ${s.OWNER_NAME}
 │🍀 *Mode* : ${mode}
@@ -40,13 +40,13 @@ const date = moment().format('DD/MM/YYYY');
 │🍁 *Time* : ${temps} 
 │🍀 *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │🍁 *Platform* : ${os.platform()}
-│🍀 *Developer* : 𝐅𝐄𝐄𝐍𝐈𝐗
+│🍀 *Developer* : *MAHIYA__BOY*
 │🍁 *Version* : 𝐯7.5.25
-╰─────✧The-FEENIX✧─────◆ \n\n`;
+╰─────✧The-MAHIYA✧─────◆ \n\n`;
 
   let menuMsg=`  
 
-*FEENIX-MD COMMANDS :*
+*MAHIYA-MD COMMANDS :*
 ◇                             ◇
 `;
 
@@ -64,7 +64,7 @@ const date = moment().format('DD/MM/YYYY');
 ◇            ◇
 *————— ★ —————*
 
-  *🍁FEENIX©🍁²0²⁴*                                         
+  *🍁MAHIYA-MD©🍁²0²⁴*                                         
 *╰═════════════⊷*
 `;
 
