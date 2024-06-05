@@ -45,11 +45,11 @@
 
 
 ### CONTRIBUTIONS 
--Contributions to Flash-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+-Contributions to MAHIYA-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ***
-### DEVELOPER:
+### DEVELOPER:MIHIRANGA WICKRAMASINGHA
 **GET In Touch with The Owner**
 - <a href="https://wa.me/+94715450089"><img title="Author" src="https://img.shields.io/badge/ON WHATSAPP-black?style=for-the-badge&logo=WhatsApp"></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
