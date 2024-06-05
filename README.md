@@ -67,15 +67,6 @@
    
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### TO JOIN OUR WHATSAPP CHANNEL 
-
-*CLICK THIS 👇 BUTTON* <p align="centre">
-  <a href="https://whatsapp.com/channel/0029VaTbb3p84Om9LRX1jg0P">
-   <img align="centre" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
-
-   
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
 ***
 ### THANKS TO:
 - [***STATUS KING CHIKU***] [https://wa.me/+94751334623"] For Providing a Base of **MAHIYA-MD**
