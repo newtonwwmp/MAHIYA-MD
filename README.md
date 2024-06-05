@@ -78,7 +78,6 @@
 
 ***
 ### THANKS TO:
-- . 
-- [***STATUS KING CHIKU***] For Providing a Base of **MAHIYA-MD**
+- [***STATUS KING CHIKU***] [https://wa.me/+94751334623"] For Providing a Base of **MAHIYA-MD**
 - <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
