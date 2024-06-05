@@ -16,7 +16,7 @@
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/newtonwwmp/MAHIYA-MD) It***
 
-***2.`Get Session ID` by [`SCANING QR 1`](https://scan-flash-md.onrender.com) OR [`QR SCANNER 2`](https://king-france.vercel.app) OR [`PAIRING CODE 2`](https://flash-sessions.onrender.com/pair)***
+***2.`Get Session ID` by [`SCANING QR 1`](https://scan-flash-md.onrender.com) OR [`QR SCANNER 2`](https://king-france.vercel.app) OR [`PAIRING CODE 2`]("https://dexter-md.onrender.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>)***
 
 *-Copy The Session ID to paste it in Heroku*
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
