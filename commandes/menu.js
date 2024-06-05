@@ -31,18 +31,18 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────✧*MAHIYA-MD*✧────◆
-│🍀 *Préfix* : ${s.PREFIXE}
-│🍁 *User* : ${s.OWNER_NAME}
-│🍀 *Mode* : ${mode}
-│🍁 *Commands* : ${cm.length} 
-│🍀 *Date* : ${date}
-│🍁 *Time* : ${temps} 
-│🍀 *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│🍁 *Platform* : ${os.platform()}
-│🍀 *Developer* : *MAHIYA__BOY*
-│🍁 *Version* : 𝐯7.5.25
-╰─────✧The-MAHIYA✧─────◆ \n\n`;
+╭────✧𝗠𝗔𝗛𝗜𝗬𝗔__𝗠𝗗✧────◆
+│💀*Préfix* : ${s.PREFIXE}
+│💀 *User* : ${s.OWNER_NAME}
+│💀 *Mode* : ${mode}
+│💀 *Commands* : ${cm.length} 
+│💀 *Date* : ${date}
+│💀 *Time* : ${temps} 
+│💀 *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+│💀 *Platform* : ${os.platform()}
+│💀 *Developer* : *MAHIYA__BOY*
+│💀*Version* : 𝐯7.5.25
+╰─────✧𝗠𝗔𝗛𝗜𝗬𝗔__𝗠𝗗✧─────◆ \n\n`;
 
   let menuMsg=`  
 
@@ -64,7 +64,7 @@ const date = moment().format('DD/MM/YYYY');
 ◇            ◇
 *————— ★ —————*
 
-  *🍁MAHIYA-MD©🍁²0²⁴*                                         
+  *🍁𝗠𝗔𝗛𝗜𝗬𝗔__𝗠𝗗©🍁²0²⁴*                                         
 *╰═════════════⊷*
 `;
 
