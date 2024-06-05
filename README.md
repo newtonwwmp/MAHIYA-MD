@@ -14,7 +14,8 @@
 
 #### SETUP 
 
-***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/newtonwwmp/MAHIYA-MD) It***
+***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/newtonwwmp/MAHIYA-MD) It*** 
+
 
 <a href="https://dexter-md.onrender.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
