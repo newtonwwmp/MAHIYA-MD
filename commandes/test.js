@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 zokou({ nomCom: "repo", reaction: "😌", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = 'Hello This is  *MAHIYA-MD* \n\n ' + "The Following is *FEENIX-MD Repo.*";
+    let z = 'Hello This is  *MAHIYA-MD* \n\n ' + "The Following is *MAHIYA-MD Repo.*";
     let d = ' https://github.com/newtonwwmp/MAHIYA-MD';
     let varmess = z + d;
     var img = 'https://telegra.ph/file/37d76d2eaa27a53eef207.jpg';
