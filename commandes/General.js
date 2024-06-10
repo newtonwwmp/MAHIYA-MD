@@ -55,12 +55,12 @@ zokou({ nomCom: "developer", categorie: "General", reaction: "💞" }, async (de
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "📌 Feenix ", numero: "94722807735" },
-      { nom: "📌 Feenix", numero: "94786254229" },
+      { nom: "📌 MIHIRANGA ", numero: "94715450089" },
+      { nom: "📌 MIHIRANGA", numero: "94715450089" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "👋 *Welcome to FEENIX-MD* here is the developer contact numbers 👇\n\n";
+    let message = "👋 *Welcome to MAHIYA-MD* here is the developer contact numbers 👇\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -94,7 +94,7 @@ else {
 zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("⚔ *FEENIX SHARE LINKN* ⚔")
-  await zk.sendMessage(auteurMessage,{text : `https://wa.me/94722807735`},{quoted :ms})
+  repondre("⚔ *MAHIYA SHARE LINKN* ⚔")
+  await zk.sendMessage(auteurMessage,{text : `https://wa.me/94715450089`},{quoted :ms})
 
 })
