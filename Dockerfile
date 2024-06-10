@@ -9,8 +9,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/feenixmd/FEENIX-MD-V1.git  /root/Feenixmd
-WORKDIR /root/Feenixmd/
+RUN git clone https://github.com/newtonwwmp/MAHIYA-MD.git  /root/Mahiyamd
+WORKDIR /root/Mahiyamd/
 
 
 COPY package.json .
