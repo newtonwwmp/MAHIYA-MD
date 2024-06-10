@@ -44,7 +44,7 @@
 
 
 *CLICK THIS 👇 BUTTON* <p align="centre">
-  <a href="https://chat.whatsapp.com/IH4xWuVTGpf7ibfzC3h6LM">
+  <a href="https://wa.me/+94715450089">
     <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
   
 
