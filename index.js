@@ -689,7 +689,7 @@ zk.ev.on('group-participants.update', async (group) => {
 
 ${metadata.desc}
 
-📌Powered by *Feenix®🐐*`;
+📌Powered by *MAHIYA®🐐*`;
 
             zk.sendMessage(group.id, { image: { url: ppgroup }, caption: msg, mentions: membres });
         } else if (group.action == 'remove' && (await recupevents(group.id, "goodbye") == 'on')) {
@@ -859,10 +859,10 @@ ${metadata.desc}
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `
-*『𝐅𝐄𝐄𝐍𝐈𝐗-𝐌𝐃 is CONNECTED』*
+*『MAHIYA-MD is CONNECTED』*
 
      
-║❒Creator: *𝐅𝐄𝐄𝐍𝐈𝐗*
+║❒Creator: *MAHIYA*
 ║❒Prefix : [ ${prefixe} ]
 ║❒Mode :${md}
 ║❒Created on : *22.3.2024*
@@ -871,13 +871,13 @@ ${metadata.desc}
      ▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚
      ▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚
  
-║❒ _Join *𝐅𝐄𝐄𝐍𝐈𝐗-MD* WhatsApp Gʀᴏᴜᴘ_
-https://chat.whatsapp.com/CpQAXKSTgKZ5t2huLGDxNb
+║❒ _Join *MAHIYA-MD* WhatsApp Msg me_
+https://wa.me/+94715450089
 
 
 
 
-              *𝐅𝐄𝐄𝐍𝐈𝐗-𝐌𝐃*`;
+              *MAHIYA-MD*`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
             }
