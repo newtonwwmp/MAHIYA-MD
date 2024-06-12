@@ -55,8 +55,8 @@ zokou({ nomCom: "developer", categorie: "General", reaction: "💞" }, async (de
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "📌 MIHIRANGA ", numero: "94715450089" },
-      { nom: "📌 MIHIRANGA", numero: "94715450089" },
+      { nom: " MIHIRANGA ", numero: "94715450089" },
+      { nom: " MIHIRANGA", numero: "94715450089" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
@@ -94,7 +94,7 @@ else {
 zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("⚔ *MAHIYA SHARE LINKN* ⚔")
+  repondre("⚔ *MAHIYA SHARE LINK* ⚔")
   await zk.sendMessage(auteurMessage,{text : `https://wa.me/94715450089`},{quoted :ms})
 
 })
