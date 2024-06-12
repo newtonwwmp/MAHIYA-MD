@@ -73,7 +73,7 @@ else {
     } else {
         if(!superUser) { repondre("there is no alive for this bot") ; return};
 
-      await   repondre("⚔ *HY WELCOME MAHIYA MD IS ALIVE NOW* ⚔");
+      await   repondre("👋 *HY WELCOME MAHIYA MD IS ALIVE NOW* 👋");
          repondre(" *AUTO STATUS SEEN,FAKE RECODING AUDIO,AUTO STATUS DOWNLOAD,190+COMMANDS*")
      }
  } else {
