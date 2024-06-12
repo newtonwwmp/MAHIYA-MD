@@ -73,8 +73,8 @@ else {
     } else {
         if(!superUser) { repondre("there is no alive for this bot") ; return};
 
-      await   repondre("⚔ *MAHIYA MD WHATSAPP BOT OWNER MAHIYA* ⚔");
-         repondre(" *Support MAHIYA ! MAHIYA & CHIKU*")
+      await   repondre("⚔ *HY WELCOME MAHIYA MD IS ALIVE NOW* ⚔");
+         repondre(" *AUTO STATUS SEEN,FAKE RECODING AUDIO,AUTO STATUS DOWNLOAD,190+COMMANDS*")
      }
  } else {
 
