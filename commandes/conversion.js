@@ -70,7 +70,7 @@ const alea = (ext) => {
     }
 
     sticker = new Sticker(buffer, {
-      pack:"FEENIX-MD",
+      pack:"MAHIYA-MD",
       author: nomAuteurMessage,
       type:
         arg.includes("crop") || arg.includes("c")
@@ -94,7 +94,7 @@ const alea = (ext) => {
     }
 
     sticker = new Sticker(buffer, {
-      pack:"FEENIX-MD", // pack stick
+      pack:"MAHIYA-MD", // pack stick
       author:  nomAuteurMessage, // name of the author of the stick
       type:
         arg.includes("-r") || arg.includes("-c")
@@ -150,7 +150,7 @@ mediamsg = msgRepondu.videoMessage
   var stick = await zk.downloadAndSaveMediaMessage(mediamsg)
 
      let stickerMess = new Sticker(stick, {
-            pack: Feenix-Md,
+            pack: MAHIYA-Md,
             
             type: StickerTypes.CROPPED,
             categories: ["🤩", "🎉"],
@@ -186,7 +186,7 @@ mediamsg = msgRepondu.videoMessage
   var stick = await zk.downloadAndSaveMediaMessage(mediamsg)
 
      let stickerMess = new Sticker(stick, {
-            pack: FEENIX-MD,
+            pack: MAHIYA-MD,
             
             type: StickerTypes.FULL,
             categories: ["🤩", "🎉"],
@@ -252,7 +252,7 @@ zokou({ nomCom: "write", categorie: "Conversion", reaction: "👨🏿‍💻" },
     // Create the sticker
     const stickerMess = new Sticker(meme, {
       pack: nomAuteurMessage,
-      author: 'FEENIX-MD',
+      author: 'MAHIYA-MD',
       type: StickerTypes.FULL,
       categories: ["🤩", "🎉"],
       id: "12345",
