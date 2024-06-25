@@ -17,7 +17,7 @@
     "whatsapp-bot",
     "MAHIYA"
   ],
-  "author": "Sasiya",
+  "author": "MAHIYA",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
