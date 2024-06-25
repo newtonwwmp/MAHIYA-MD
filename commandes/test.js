@@ -6,7 +6,7 @@ zokou({ nomCom: "repo", reaction: "😌", nomFichier: __filename }, async (dest,
     let z = 'Hello This is  *MAHIYA-MD* \n\n ' + "The Following is *MAHIYA-MD Repo.*";
     let d = ' https://github.com/newtonwwmp/MAHIYA-MD';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/37d76d2eaa27a53eef207.jpg';
+    var img = 'https://telegra.ph/file/fe050337ca308d395301f.jpg";
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
@@ -19,9 +19,9 @@ console.log("mon test");
 
 async function  execute  (origineMessage,zok) {
   console.log("Commande saisie !!!s")
-   let z ='Salut je m\'appelle *FEENIX-MD* \n\n '+'je suis un bot Whatsapp Multi-appareil '
-      let d =' developpé par *Sasiya*'
+   let z ='Salut je m\'appelle *MAHIYA-MD* \n\n '+'je suis un bot Whatsapp Multi-appareil '
+      let d =' developpé par *MAHIYA*'
       let varmess=z+d
-      var img='https://telegra.ph/file/13d63c21c1a665bfd8324.jpg'
+      var img='https://telegra.ph/file/fe050337ca308d395301f.jpg"'
 await  zok.sendMessage(origineMessage,  { image:{url:img},caption:varmess});
 }  */ 
