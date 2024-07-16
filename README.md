@@ -24,7 +24,7 @@
 
 ***
 
-#### DEPLOY TO HEROKU 
+#### DEPLOY METHOD
  [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/newtonwwmp/MAHIYA-MD/)
 
 
@@ -33,7 +33,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ***
-### DEVELOPER:MIHIRANGA WICKRAMASINGHA
+### DEVELOPER: MIHIRANGA WICKRAMASINGHA
 **GET In Touch with The Owner**
 - <a href="https://wa.me/+94715450089"><img title="Author" src="https://img.shields.io/badge/ON WHATSAPP-black?style=for-the-badge&logo=WhatsApp"></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
