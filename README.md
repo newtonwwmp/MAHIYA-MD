@@ -14,7 +14,7 @@
 
 #### SETUP 
 
-<a href=" https://github.com/newtonwwmp/MAHIYA-MD/"><<img src="https://img.shields.io/badge/frok%20bot%20-red" alt="FROK BOT" width="250"></a>
+<a href=" https://github.com/newtonwwmp/MAHIYA-MD/"><<img src="https://img.shields.io/badge/frok%20bot%20-red" alt="FROK BOT" width="150"></a>
 <br>
 
 <a href="https://dexter-md.onrender.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
