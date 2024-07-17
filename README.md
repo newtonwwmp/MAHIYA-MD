@@ -28,9 +28,6 @@
  [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/newtonwwmp/MAHIYA-MD/)
 
 
-### CONTRIBUTIONS 
--Contributions to MAHIYA-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ***
 ### DEVELOPER: MIHIRANGA WICKRAMASINGHA
