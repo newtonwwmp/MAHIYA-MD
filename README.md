@@ -1,55 +1,46 @@
-<h1 align="center"> THE MAHIYA MD  </h1>
-<p align="center">  
-  
-***
-  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +MAHIYA-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+MAHIYA+BOY;RELEASED+5.6.2024" alt="Typing SVG" /></a>
-  </p>
-    <img alt="MAHIYA-MD" width="700" height="300" src="https://telegra.ph/file/fe050337ca308d395301f.jpg">
-<p align="center">
-<p align="center">
-<a href="https://github.com/newtonwwmp/MAHIYA-Md"><img title="Author" src="https://img.shields.io/badge/MAHIYA_MD-black?style=for-the-badge&logo=github"></a>
-<p/>
 
+
+<h1 align="center"> 𝐌𝐀𝐇𝐈𝐘𝐀-𝐌𝐃  </h1>
+<p align="center">  
+
+ 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=WELCOME TO +MAHIYA-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+MAHIYA+BOY" alt="Typing SVG" /></a>
+  </p>
+     
+ <img alt="MAHIYA-MD" width="700" height="300" src="https://telegra.ph/file/fe050337ca308d395301f.jpg">
+                                      
+
+
+
+<p align="center">
+ <p align="center">
+<p align="center">
+<a href="https://github.com/newtonwwp/Queen_Amanda"><img title="Author" src="https://img.shields.io/badge/QUEEN_AMANDA-black?style=for-the-badge&logo=github"></a>
+
+  
 
 #### SETUP 
 
-<a href="https://github.com/newtonwwmp/MAHIYA-MD"><img src="https://img.shields.io/badge/frok%20bot%20-red" alt="FROK BOT" width="150"></a>
-<br>
+***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/newtonwwmp/Queen_Amanda/fork) It***
 
-<a href="https://dexter-md.onrender.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
-
-*-Copy The Session ID to paste it in Heroku*
+***2.`GET SESSION_ID USING`***
+[`QR SCANNER`](https://the-flash-scanner.onrender.com) OR [`PAIRING CODE`](https://king-france.vercel.app)
+ 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ***
 
-#### DEPLOY METHOD
- [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/newtonwwmp/MAHIYA-MD/)
+#### DEPLOY METHOD 
+
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/PrabathLK/PRABATH_MD&template=https://github.com/newtonwwmp/Queen_Amanda.git)
 
 
 
-***
-### DEVELOPER: MIHIRANGA WICKRAMASINGHA
+### DEVELOPER:
 **GET In Touch with The Owner**
-- <a href="https://wa.me/+94715450089"><img title="Author" src="https://img.shields.io/badge/ON WHATSAPP-black?style=for-the-badge&logo=WhatsApp"></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-***
-
-### TO JOIN OUR SUPPORT GROUP 
-
-
-*CLICK THIS 👇 BUTTON* <p align="centre">
-  <a href="https://wa.me/+94715450089">
-    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
+- <a href="https://te.me/94715450089" ><img title="Author" src="https://img.shields.io/badge/ON TELEGRAM-black?style=for-the-badge&logo=TELEGRAM"></a>
   
-
-   
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-***
-### THANKS TO:
-- [***STATUS KING CHIKU***] [https://wa.me/+94751334623"] For Providing a Base of **MAHIYA-MD**
-- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
+- <a href="https://wa.me/94715450089" target="_blank">
+    <img alt="CLICK HERE" src="https://img.shields.io/badge/ On WhatsApp  -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
