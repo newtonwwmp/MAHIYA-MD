@@ -15,7 +15,7 @@
 <p align="center">
  <p align="center">
 <p align="center">
-<a href="https://github.com/newtonwwp/Queen_Amanda"><img title="Author" src="https://img.shields.io/badge/QUEEN_AMANDA-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/newtonwwp/MAHIYA-MD"><img title="Author" src="https://img.shields.io/badge/MAHIYA-MD-black?style=for-the-badge&logo=github"></a>
 
   
 
