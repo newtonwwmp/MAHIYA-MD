@@ -24,7 +24,7 @@
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/newtonwwmp/Queen_Amanda/fork) It***
 
 ***2.`GET SESSION_ID USING`***
-[`QR SCANNER`](https://the-flash-scanner.onrender.com) OR [`PAIRING CODE`](https://king-france.vercel.app)
+[`QR SCANNER`](https://mahiya-md-sesion-genarate-a765fb44257a.herokuapp.com/qr) OR [`PAIRING CODE`](https://mahiya-md-sesion-genarate-a765fb44257a.herokuapp.com/pair)
  
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -32,8 +32,7 @@
 
 #### DEPLOY METHOD 
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/PrabathLK/PRABATH_MD&template=https://github.com/newtonwwmp/Queen_Amanda.git)
-
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/newtonwwmp/MAHIYA-MD/)
 
 
 ### DEVELOPER:
