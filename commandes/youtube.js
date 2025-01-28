@@ -2,10 +2,9 @@ const { zokou } = require("../framework/zokou");
 const yts = require('yt-search');
 const ytdl = require('ytdl-core');
 const fs = require('fs');
-const yt=require("../framework/dl/ytdl-core.js")
+const yt = require("../framework/dl/ytdl-core.js");
 const ffmpeg = require("fluent-ffmpeg");
 const yts1 = require("youtube-yts");
-//var fs =require("fs-extra")
 
 zokou({
   nomCom: "play",
@@ -13,73 +12,53 @@ zokou({
   reaction: "💿"
 }, async (origineMessage, zk, commandeOptions) => {
   const { ms, repondre, arg } = commandeOptions;
-     
+
   if (!arg[0]) {
-    repondre("wich song do you want.");
+    repondre("Which song do you want?");
     return;
   }
 
   try {
-    let topo = arg.join(" ")
+    let topo = arg.join(" ");
     const search = await yts(topo);
     const videos = search.videos;
 
     if (videos && videos.length > 0 && videos[0]) {
       const urlElement = videos[0].url;
-          
-       let infoMess = {
-          image: {url : videos[0]. thumbnail},
-         caption : `\n*song name :* _${videos[0].title}_
 
-*Time :* _${videos[0].timestamp}_
+      let infoMess = {
+        image: { url: videos[0].thumbnail },
+        caption: `\n*Song name:* _${videos[0].title}_\n*Time:* _${videos[0].timestamp}_\n*URL:* _${videos[0].url}_\n\n_*MAHIYA-MD SONG DOWNLOADING...*_\n\n`
+      };
 
-*Url :* _${videos[0].url}_
+      zk.sendMessage(origineMessage, infoMess, { quoted: ms });
 
-
-_*MAHIYA-MD SONG DOWNLOADING......*_\n\n`
-       }
-
-      
-
-      
-
-      
-       zk.sendMessage(origineMessage,infoMess,{quoted:ms}) ;
-      // Obtenir le flux audio de la vidéo
+      // Obtain audio stream from video
       const audioStream = ytdl(urlElement, { filter: 'audioonly', quality: 'highestaudio' });
 
-      // Nom du fichier local pour sauvegarder le fichier audio
-      const filename = 'audio.mp3';
-
-      // Écrire le flux audio dans un fichier local
+      // Save the audio file locally
+      const filename = './audio.mp3';
       const fileStream = fs.createWriteStream(filename);
       audioStream.pipe(fileStream);
 
       fileStream.on('finish', () => {
-        // Envoi du fichier audio en utilisant l'URL du fichier local
-      
-
-     zk.sendMessage(origineMessage, { audio: { url:"audio.mp3"},mimetype:'audio/mp4' }, { quoted: ms,ptt: false });
-        console.log("Envoi du fichier audio terminé !");
-
-     
+        // Send the audio file
+        zk.sendMessage(origineMessage, { audio: { url: filename }, mimetype: 'audio/mp3' }, { quoted: ms, ptt: false });
+        console.log("Audio file sent!");
       });
 
       fileStream.on('error', (error) => {
-        console.error('Erreur lors de l\'écriture du fichier audio :', error);
-        repondre('Une erreur est survenue lors de l\'écriture du fichier audio.');
+        console.error('Error writing audio file:', error);
+        repondre('An error occurred while writing the audio file.');
       });
     } else {
-      repondre('Aucune vidéo trouvée.');
+      repondre('No video found.');
     }
   } catch (error) {
-    console.error('Erreur lors de la recherche ou du téléchargement de la vidéo :', error);
-    
-    repondre('Une erreur est survenue lors de la recherche ou du téléchargement de la vidéo.');
+    console.error('Error during search or download:', error);
+    repondre('An error occurred during search or download.');
   }
 });
-
-  
 
 zokou({
   nomCom: "video",
@@ -89,7 +68,7 @@ zokou({
   const { arg, ms, repondre } = commandeOptions;
 
   if (!arg[0]) {
-    repondre("insert video name");
+    repondre("Insert video name.");
     return;
   }
 
@@ -103,42 +82,37 @@ zokou({
 
       let InfoMess = {
         image: { url: videos[0].thumbnail },
-        caption: `*Video name :* _${Element.title}_
-*Time :* _${Element.timestamp}_
-*Url :* _${Element.url}_
-_*MAHIYA-MD On downloading...*_\n\n`
+        caption: `*Video name:* _${Element.title}_\n*Time:* _${Element.timestamp}_\n*URL:* _${Element.url}_\n\n_*MAHIYA-MD On downloading...*`
       };
 
       zk.sendMessage(origineMessage, InfoMess, { quoted: ms });
 
-      // Obtenir les informations de la vidéo à partir du lien YouTube
+      // Get video info from YouTube link
       const videoInfo = await ytdl.getInfo(Element.url);
-      // Format vidéo avec la meilleure qualité disponible
+      // Choose the best available video format
       const format = ytdl.chooseFormat(videoInfo.formats, { quality: '18' });
-      // Télécharger la vidéo
+      // Start downloading the video stream
       const videoStream = ytdl.downloadFromInfo(videoInfo, { format });
 
-      // Nom du fichier local pour sauvegarder la vidéo
-      const filename = 'video.mp4';
-
-      // Écrire le flux vidéo dans un fichier local
+      // Save the video file locally
+      const filename = './video.mp4';
       const fileStream = fs.createWriteStream(filename);
       videoStream.pipe(fileStream);
 
       fileStream.on('finish', () => {
-        // Envoi du fichier vidéo en utilisant l'URL du fichier local
-        zk.sendMessage(origineMessage, { video: { url :"./video.mp4"} , caption: "*FEENIX-MD*", gifPlayback: false }, { quoted: ms });
+        // Send the video file
+        zk.sendMessage(origineMessage, { video: { url: filename }, caption: "*FEENIX-MD*", gifPlayback: false }, { quoted: ms });
       });
 
       fileStream.on('error', (error) => {
-        console.error('Erreur lors de l\'écriture du fichier vidéo :', error);
-        repondre('Une erreur est survenue lors de l\'écriture du fichier vidéo.');
+        console.error('Error writing video file:', error);
+        repondre('An error occurred while writing the video file.');
       });
     } else {
-      repondre('No video found');
+      repondre('No video found.');
     }
   } catch (error) {
-    console.error('Erreur lors de la recherche ou du téléchargement de la vidéo :', error);
-    repondre('Une erreur est survenue lors de la recherche ou du téléchargement de la vidéo.');
+    console.error('Error during search or download:', error);
+    repondre('An error occurred during search or download.');
   }
 });
